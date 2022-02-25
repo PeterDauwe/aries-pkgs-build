@@ -3,7 +3,7 @@
 deletion1="../../aries_repo/x86_64/"
 name1="${PWD##*/}"
 
-rm $deletion1/$name1-21*.zst
+rm $deletion1/$name1-22*.zst
 
 
 
