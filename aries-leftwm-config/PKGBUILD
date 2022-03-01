@@ -3,7 +3,7 @@
 
 _namepackage="${PWD##*/}"
 pkgname=${_namepackage}
-_destname1="/usr"
+_destname1="/etc"
 _destname2="/etc"
 _destname3="/etc"
 _destname4="/etc"

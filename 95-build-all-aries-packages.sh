@@ -13,13 +13,8 @@ set -e
 #
 ##################################################################################################################
 
-destination1="../noobie-repo/x86_64/"
+destination1="../aries_repo/x86_64/"
 rm $destination1/*zst
-
-
-
-
-
 
 count=0
 for name in $(ls -d */ | cut -f1 -d'/'); do
