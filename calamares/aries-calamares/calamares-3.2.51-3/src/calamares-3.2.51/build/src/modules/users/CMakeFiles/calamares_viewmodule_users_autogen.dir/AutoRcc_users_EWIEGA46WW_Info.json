@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "/home/peter/BUILDFOLDER/ARIES-CREATIONS/aries-pkgs-build/calamares/aries-calamares/calamares-3.2.51-3/src/calamares-3.2.51/build/src/modules/users/calamares_viewmodule_users_autogen",
+	"CMAKE_BINARY_DIR" : "/home/peter/BUILDFOLDER/ARIES-CREATIONS/aries-pkgs-build/calamares/aries-calamares/calamares-3.2.51-3/src/calamares-3.2.51/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/peter/BUILDFOLDER/ARIES-CREATIONS/aries-pkgs-build/calamares/aries-calamares/calamares-3.2.51-3/src/calamares-3.2.51/build/src/modules/users",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/peter/BUILDFOLDER/ARIES-CREATIONS/aries-pkgs-build/calamares/aries-calamares/calamares-3.2.51-3/src/calamares-3.2.51/src/modules/users",
+	"CMAKE_SOURCE_DIR" : "/home/peter/BUILDFOLDER/ARIES-CREATIONS/aries-pkgs-build/calamares/aries-calamares/calamares-3.2.51-3/src/calamares-3.2.51",
+	"INCLUDE_DIR" : "/home/peter/BUILDFOLDER/ARIES-CREATIONS/aries-pkgs-build/calamares/aries-calamares/calamares-3.2.51-3/src/calamares-3.2.51/build/src/modules/users/calamares_viewmodule_users_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/peter/BUILDFOLDER/ARIES-CREATIONS/aries-pkgs-build/calamares/aries-calamares/calamares-3.2.51-3/src/calamares-3.2.51/src/modules/users/images/invalid.png",
+		"/home/peter/BUILDFOLDER/ARIES-CREATIONS/aries-pkgs-build/calamares/aries-calamares/calamares-3.2.51-3/src/calamares-3.2.51/src/modules/users/images/valid.png"
+	],
+	"LOCK_FILE" : "/home/peter/BUILDFOLDER/ARIES-CREATIONS/aries-pkgs-build/calamares/aries-calamares/calamares-3.2.51-3/src/calamares-3.2.51/build/src/modules/users/CMakeFiles/calamares_viewmodule_users_autogen.dir/AutoRcc_users_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "users" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_users.cpp",
+	"RCC_EXECUTABLE" : "/usr/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/peter/BUILDFOLDER/ARIES-CREATIONS/aries-pkgs-build/calamares/aries-calamares/calamares-3.2.51-3/src/calamares-3.2.51/build/src/modules/users/CMakeFiles/calamares_viewmodule_users_autogen.dir/AutoRcc_users_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/peter/BUILDFOLDER/ARIES-CREATIONS/aries-pkgs-build/calamares/aries-calamares/calamares-3.2.51-3/src/calamares-3.2.51/src/modules/users/users.qrc",
+	"VERBOSITY" : 0
+}

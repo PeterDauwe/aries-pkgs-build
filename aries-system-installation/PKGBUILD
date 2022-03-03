@@ -23,8 +23,8 @@ options=(!strip !emptydirs)
 source=(${pkgname}::"git+${url}/${pkgname}")
 sha256sums=('SKIP')
 package() {
-  install -dm755 "$pkgdir$_destname1"
-  cp -r "$srcdir/$pkgname/$_destname1/"* "$pkgdir$_destname1"
+ # install -dm755 "$pkgdir$_destname1"
+ # cp -r "$srcdir/$pkgname/$_destname1/"* "$pkgdir$_destname1"
 
   install -dm755 "$pkgdir$_destname2"
   cp -r "$srcdir/$pkgname/$_destname2/"* "$pkgdir$_destname2"
